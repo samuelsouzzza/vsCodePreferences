@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "1984",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.letterSpacing": 0.15,
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "expand",
+  "editor.autoIndent": "advanced",
+  "editor.acceptSuggestionOnCommitCharacter": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "javascript.autoClosingTags": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true
+}
